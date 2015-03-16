@@ -1,6 +1,6 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.appliam.poprock" version="1.0.0">
-  <name>RockPop Shop</name>
-  <description>For all your PopRock Needs </description>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.appliam.bayframing" version="1.0.0">
+  <name>Bay Framing</name>
+  <description>Local picture framing in Morecambe. </description>
   <author href="http://www.appliam.com" email="support@appliam.com">Appliam</author>
   <content src="index.html"/>
 
